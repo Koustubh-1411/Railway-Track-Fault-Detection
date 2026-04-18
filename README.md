@@ -88,8 +88,8 @@ To enhance accuracy, the system uses sensor fusion, meaning a fault is confirmed
 
 ## Author
 
-**Ishika Bharti**
-**Koustubh Tiwari**
+**Ishika Bharti And Koustubh Tiwari**
+
 
 ##  Conclusion
 The proposed system provides a reliable, cost-effective, and efficient solution for real-time railway track fault detection. By combining sensor data, location tracking, and instant communication, it significantly enhances railway safety and reduces the risk of accidents.
